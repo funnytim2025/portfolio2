@@ -1,0 +1,3 @@
+title: Timothy Bamisaye
+logo: my_photo.png
+theme: jekyll-theme-minimal
