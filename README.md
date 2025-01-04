@@ -1,3 +1,5 @@
+
+
 # ABOUT ME
 
 Hello! I'm Timothy Bamisaye 🤓—a data analyst, educator, and consultant dedicated to transforming raw data into meaningful, actionable insights. With expertise spanning humanitarian efforts, sales, operations, and customer service, I specialize in helping businesses overcome challenges and achieve sustainable growth through data driven decision making.
