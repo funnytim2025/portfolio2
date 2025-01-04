@@ -43,14 +43,10 @@ Get the Course
 # Contact Me
 
 |----------|----------|
-| 📩   |   [your_email@gmail.com](mailto:your_email@gmail.com)  	   | 	
-<!-- replace your_email@gmail.com with your email address -->
-| 📞   |   [your_phone_number](https://wa.me/2348060606060)  	   |	
-<!-- replace 2348060606060 with your phone number, remember to add your country code -->	
-| 🗃️	| 	[View Resume](my_resume.pdf)				   |	
-<!-- replace with the name and extension of your resume -->
-| 📺	|	[Your_Youtube_URL](https://www.example.com)	           | 	
-<!-- replace https://www.example.com with your youtube url -->
+| 📩   |   [your_email@gmail.com](mailto:your_email@gmail.com)  	   | 	<!-- replace your_email@gmail.com with your email address -->
+| 📞   |   [your_phone_number](https://wa.me/2348060606060)  	   |	<!-- replace 2348060606060 with your phone number, remember to add your country code -->	
+| 🗃️	| 	[View Resume](my_resume.pdf)				   |	<!-- replace with the name and extension of your resume -->
+| 📺	|	[Your_Youtube_URL](https://www.example.com)	           | <!-- replace https://www.example.com with your youtube url -->
 
 
 
